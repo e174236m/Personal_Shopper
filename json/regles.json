@@ -1,0 +1,178 @@
+[
+  {
+    "id": "casual chic",
+    "questions": {
+      "couleurs": [
+        "blanc",
+        "bleu",
+        "noir",
+        "marron"
+      ],
+      "genre": [
+        "decontracte",
+        "classique"
+      ],
+      "chemise": {
+        "genre": [
+          "decontracte"
+        ],
+        "coupe": [
+          "classique",
+          "slim"
+        ]
+      },
+      "veste": [
+        "manteau",
+        "blouson"
+      ],
+      "pantalons": {
+        "genre": [
+          "jeans",
+          "chinos"
+        ],
+        "coupe": [
+          "classique",
+          "slim"
+        ]
+      },
+      "chaussures": [
+        "boots chevilles",
+        "baskets",
+        "business"
+      ]
+    },
+    "BDD": {
+      "divers": "non",
+      "couleurs": [
+        "blanc",
+        "bleu",
+        "noir"
+      ],
+      "motifs": [
+        "aucun"
+      ],
+      "matieres": {
+        "chausurres": [
+          "all"
+        ],
+        "tc": [
+          "all"
+        ]
+      },
+      "genre": {
+        "chausurres": [
+          "boots chevilles"
+        ],
+        "bas": [
+          "chino",
+          "jean"
+        ],
+        "tc": [
+          "all"
+        ],
+        "veste": [
+          "manteau",
+          "blouson"
+        ]
+      },
+      "coupe": {
+        "bas": [
+          "slim",
+          "classique"
+        ],
+        "tc": [
+          "all"
+        ]
+      },
+      "type": {
+        "tc": [
+          "tshirt",
+          "chemise"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rock",
+    "questions": {
+      "couleurs": [
+        "blanc",
+        "noir",
+        "marron"
+      ],
+      "genre": [
+        "decontracte"
+      ],
+      "chemise": {
+        "genre": [
+          "decontracte"
+        ],
+        "coupe": [
+          "classique"
+        ]
+      },
+      "veste": [
+        "veste en cuir",
+        "blouson"
+      ],
+      "pantalons": {
+        "genre": [
+          "jeans"
+        ],
+        "coupe": [
+          "classique"
+        ]
+      },
+      "chaussures": [
+        "boots",
+        "baskets"
+      ]
+    },
+    "BDD": {
+      "divers": "non",
+      "couleurs": [
+        "blanc",
+        "noir"
+      ],
+      "motifs": [
+        "aucun"
+      ],
+      "matieres": {
+        "chausurres": [
+          "cuir"
+        ],
+        "tc": [
+          "all"
+        ]
+      },
+      "genre": {
+        "chausurres": [
+          "boots"
+        ],
+        "bas": [
+          "jean"
+        ],
+        "tc": [
+          "manches-courtes"
+        ],
+        "veste": [
+          "veste en cuir",
+          "blouson"
+        ]
+      },
+      "coupe": {
+        "bas": [
+          "classique"
+        ],
+        "tc": [
+          "classique"
+        ]
+      },
+      "type": {
+        "tc": [
+          "tshirt"
+        ]
+      }
+    }
+  }
+]
